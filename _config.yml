@@ -1,11 +1,11 @@
 # Site settings
-author: wook kim
-title: 
+author: JA
+title: Code Every day
 header-img: img/home-bg.png
 email: wooke2e@gmail.com
-copyright_name: wook kim
+copyright_name: JA
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Testing code everyday
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  wwkk08
